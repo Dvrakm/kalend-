@@ -1,0 +1,15 @@
+div, table, tr, td{
+    border: 1px solid black;
+}
+div{
+    width: 50%;
+}
+tr,td{
+    width: 5%;
+}
+#bunka{
+    background-color: rgb(198, 184, 153);
+}
+input{
+    width: 30%;
+}
